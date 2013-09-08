@@ -1,4 +1,4 @@
 WordPress-Reset-Theme
 =====================
 
-WordPress Reset Theme(HTML5)
+워드프레스 개발용 기본 테마입니다. DOCTYPE 은 HTML5로 되어있으며 불필요한 모든 기능은 제거된 버전입니다. 초기 테마 개발을 시작할 때 반복적인 작업을 줄이기 위해 만든 테마입니다. 하위 호환성을 위해 header에 html5shim를 호출합니다. 워드프레스는 가장 최신 버전의 jQuery가 포함되어있습니다만 제작 환경에 따라 jQuery 버전을 달리 사용하기 위해 Theme에 jQuery를 사용합니다.
